@@ -1,0 +1,5 @@
+{
+    "name": "utility",
+    "main":"./models/index.js",
+     "description":"package.json file is like your manifest file. It describes your module and is OK to have package.json files for modules. "
+}

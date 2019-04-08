@@ -1,0 +1,11 @@
+{
+    "name": "small-rest-api",
+    "description": "Small application in node.js",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-watch": "*",
+        "should": "^13.2.3"
+    }
+}
