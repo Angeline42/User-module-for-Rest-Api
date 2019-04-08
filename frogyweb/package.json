@@ -1,0 +1,24 @@
+{
+  "name": "frogyweb",
+  "version": "1.0.0",
+  "description": "fogy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Angeline42/frogyweb.git"
+  },
+  "keywords": [
+    "Small",
+    "app",
+    "in",
+    "node.js"
+  ],
+  "author": "Angeline Nesbitt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
